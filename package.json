@@ -1,0 +1,25 @@
+{
+  "name": "jest-zephyr-scale-reporter",
+  "version": "1.0.0",
+  "description": "A test reporter for zephyr scale",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dompstar/jest-zephyr-scale-reporter.git"
+  },
+  "keywords": [
+    "zephyr",
+    "scale",
+    "jest",
+    "reporter"
+  ],
+  "author": "Alexander Auer <thealexauer@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dompstar/jest-zephyr-scale-reporter/issues"
+  },
+  "homepage": "https://github.com/dompstar/jest-zephyr-scale-reporter#readme"
+}
