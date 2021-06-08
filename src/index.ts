@@ -50,7 +50,7 @@ class JestZephyrScaleReporter {
         return {
             source: name,
             result: testCase.status.charAt(0).toUpperCase() + testCase.status.slice(1),
-            testcase: {
+            testCase: {
                 key: testCaseKey
             }
         }
